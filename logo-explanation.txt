@@ -1,0 +1,4 @@
+Logo Design Note : 
+
+The IDR logo uses a cube shape to show structure, stability, and protection in digital and AI risk work. The main orange colors #FF6A00 and #D05908 show energy, new ideas, and innovation, while the dark color #111111 suggests trust, security, and seriousness. The design is simple and bold so it stays clear and readable even at small sizes, like favicons or mobile headers. In Figma, I applied these colors to the cube faces and used a clean sans‑serif font to give a modern, professional look that fits a tech and education institute.
+
