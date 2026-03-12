@@ -209,7 +209,7 @@ Full-Stack & AI Developer
 ---
 
 <div align="center">
-Built and designed by <strong>Ankit Dimri</strong>
+Built and designed by <strong>Ankit Dimri</strong>    © 2026
 </div>
 
 ---
